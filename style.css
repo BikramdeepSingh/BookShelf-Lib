@@ -1,0 +1,23 @@
+#search {
+  width: 200px;
+  padding: 7px;
+  border: 1px solid #333;
+}
+#submit {
+  padding: 7px;
+  background: creame;
+}
+.bikram {
+  background-color: rgba(0, 0, 0, 0.8);
+  height: 60px;
+  width: 100%;
+  line-height: 60px;
+}
+body {
+  margin: 10px 50px 50px 50px;
+  background: url(/media/quotes-images/c.jpg);
+}
+
+a {
+  text-decoration: none;
+}

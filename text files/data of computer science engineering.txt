@@ -1,0 +1,129 @@
+<html>
+<head>
+<title>computer science engineering</title>
+</head>
+<body  style="margin:10px 50px 50px 50px;" >
+<br>
+<font size="4"><h1>COMPUTER SCIENCE</h1></font>
+<hr size="4" width="85%" align="left" color="grey">
+<br>
+<font size="3"><P><FONT 
+style="BACKGROUND-COLOR: pink"><h2> COMPUTER ARCHITECTURE</h2></FONT></P></font>
+<hr size="2" width="60%" align="left" color="peach">
+<marquee behavior="alternate"  direction="right" bgcolor="red" scrollamount="10" scrolldelay="0" hspace="30" vspace="30" >
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\51MX24rKBsL._SX313_BO1,204,203,200_.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\2020202001195b.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\9789350141250.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\computer-architecture-500x500.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\computer-architecture-and-organization-original-imadh78sj5q4mdjy.jpeg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\computer-architecture-and-organization-original-imadhh92ba57r38y.jpeg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\content.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\download.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\images (1).jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\images.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\main-qimg-eedb3f84f5b752678dc870f43c765f9d-c.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\main-qimg-61a09f43dc569ccec7b75f2df3e7e720-c.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\computer-architecture-and-organization-original-imadhh92ba57r38y.jpeg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\computer architecture\9789350141250.jpg" height="200" width="200"></img>
+</marquee>
+<font face="Sitka Small" size="4"><p>In computer engineering, computer architecture is a set of rules and methods that describe the functionality, organization, and implementation of computer systems. Some definitions of architecture define it as describing the capabilities and programming model of a computer but not a particular implementation.<br>
+The term “architecture” in computer literature can be traced to the work of Lyle R. Johnson, Frederick P. Brooks, Jr., and Mohammad Usman Khan, all members of the Machine Organization department in IBM’s main research center in 1959. Johnson had the opportunity to write a proprietary research communication about the Stretch, an IBM-developed supercomputer for Los Alamos National Laboratory (at the time known as Los Alamos Scientific Laboratory). To describe the level of detail for discussing the luxuriously embellished computer, he noted that his description of formats, instruction types, hardware parameters, and speed enhancements were at the level of “system architecture” – a term that seemed more useful than “machine organization.</p><br>
+Some of the authors of  computer architechture books are listed below:
+<br><b>1.</b> Wiley
+<br><b>2.</b> Amit Kumar Mishra
+<br><b>3.</b> Manish Soni
+<br><b>4.</b> Pankaj Sharma
+<br><b>5.</b> Raj Kamal
+</font>
+<br><br><br>
+<font size="3"><P><FONT 
+style="BACKGROUND-COLOR: pink"><h2> DATA STRUCTURE & ALGORITHM</h2></FONT></P></font>
+<hr size="2" width="60%" align="left" color="peach">
+<marquee behavior="alternate"  direction="right" bgcolor="red" scrollamount="10" scrolldelay="0" hspace="30" vspace="30" >
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\51iW0u2RXdL._SX411_BO1,204,203,200_.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\71kBRLo8ZtL.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\71Qn2XmXa1L.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\415XZNKTP3L.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\0470383275.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\9788121930918.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\Data Structures.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\data-structures-and-algorithm-analysis-in-c-original-imaetdqhmchnjyct.jpeg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\download.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\images (1).jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\images (2).jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\images (3).jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\images.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\main-qimg-01c7e9106772fb5d4a1b2ae33eca434b-c.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\data structure and algorithm\main-qimg-10b2bb29edcfe7bb41765fd123922d32-c.jpg" height="200" width="200"></img>
+</marquee>
+<font face="Sitka Small" size="4"><p>In computer science, a data structure is a data organization and storage format that enables efficient access and modification. Data structures can implement one or more particular abstract data types (ADT), which specify the operations that can be performed on a data structure and the computational complexity of those operations. In comparison, a data structure is a concrete implementation of the space provided by an ADT.<br>
+Different kinds of data structures are suited to different kinds of applications, and some are highly specialized to specific tasks. For example, relational databases commonly use B-tree indexes for data retrieval, while compiler implementations usually use hash tables to look up identifiers.<br>
+More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.<br>
+Modern languages also generally support modular programming, the separation between the interface of a library module and its implementation. Some provide opaque data typesthat allow clients to hide implementation details. Object-oriented programming languages, such as C++, Java, and Smalltalk, typically use classes for this purpose.
+Many known data structures have concurrent versions which allow multiple computing threads to access a single concrete instance of a data structure simultaneously.</p><br>
+Some of the authors of data structure & algorithm books are listed below:
+<br><b>1.</b>  Jeffrey D.Ullman
+<br><b>2.</b>  John E. Hopcroft
+<br><b>3.</b>  Richard F.Gilberg
+<br><b>4.</b>  David Mount
+<br><b>5.</b>  S.Chand
+</font>
+<br><br><br>
+<font size="3"><P><FONT 
+style="BACKGROUND-COLOR: pink"><h2> DATABASE SYSTEMS</h2></FONT></P></font>
+<hr size="2" width="60%" align="left" color="peach">
+<marquee behavior="alternate"  direction="right" bgcolor="red" scrollamount="10" scrolldelay="0" hspace="30" vspace="30" >
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\database systems\41E8F7T9YZL.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\database systems\41Q7S7CJTSL._SX373_BO1,204,203,200_.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\database systems\41UdCZeqTxL._SX331_BO1,204,203,200_.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\database systems\51JtltOJPVL._SX353_BO1,204,203,200_.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\database systems\71rib7Qu9tL.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\database systems\9781337627900_l.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\database systems\A1Wcmy4qNoL.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\database systems\cf6d52a83de9f5611d49f4f299ae2e51.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\database systems\database-systems-a-practical-approach-to-design-implementation-and-management-original-imadbn6gn2aampgf (1).jpeg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\database systems\download (1).jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\database systems\download.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\database systems\images (1).jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\database systems\images (2).jpg" height="200" width="200"></img>
+</marquee>
+<font face="Sitka Small" size="4"><p>A database is an organized collection of data. A relational database, more restrictively, is a collection of schemas, tables, queries, reports, views, and other elements. Database designers typically organize the data to model aspects of reality in a way that supports processesrequiring information, such as (for example) modelling the availability of rooms in hotels in a way that supports finding a hotel with vacancies.<br>
+A database-management system (DBMS) is a computer-software application that interacts with end-users, other applications, and the database itself to capture and analyze data. A general-purpose DBMS allows the definition, creation, querying, update, and administration of databases.</p><br>
+Some of the authors of database systems books are listed below:
+<br><b>1.</b>  Jeffrey D.Ullman
+<br><b>2.</b>  Steven Morris
+<br><b>3.</b>  Jennifer Widom
+<br><b>4.</b>  S.K.Singh
+<br><b>5.</b>  Hector Garcia-Molina
+</font>
+<br><br><br>
+<font size="3"><P><FONT 
+style="BACKGROUND-COLOR: pink"><h2> SOFTWARE ENGINEERING</h2></FONT></P></font>
+<hr size="2" width="60%" align="left" color="peach">
+<marquee behavior="alternate"  direction="right" bgcolor="red" scrollamount="10" scrolldelay="0" hspace="30" vspace="30" >
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\software engineering\41OiCBwqgsL._AC_UL320_SR244,320_.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\software engineering\020139815X.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\software engineering\9780849372285.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\software engineering\9781482226683.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\software engineering\9781482228656.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\software engineering\9781498705271.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\software engineering\images (1).jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\software engineering\images (2).jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\software engineering\images.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\software engineering\md15856664480.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\software engineering\software-engineering-book.jpg" height="200" width="200"></img>
+<img src="C:\Users\BIKRAM SAINI\Desktop\bikram\library website\computer science\software engineering\9781482226683.jpg" height="200" width="200"></img>
+</marquee>
+<font face="Sitka Small" size="4"><p>Software Engineering is the application of engineering to the development of software in a systematic method.<br>
+The Software Engineering Institute offers certifications on specific topics like security, process improvement and software architecture. Apple, IBM, Microsoft and other companies also sponsor their own certification examinations. Many IT certification programs are oriented toward specific technologies, and managed by the vendors of these technologies.These certification programs are tailored to the institutions that would employ people who use these technologies.<br>
+Broader certification of general software engineering skills is available through various professional societies. As of 2006, the IEEE had certified over 575 software professionals as a Certified Software Development Professional (CSDP). In 2008 they added an entry-level certification known as the Certified Software Development Associate (CSDA).<br> The ACM had a professional certification program in the early 1980s, which was discontinued due to lack of interest. The ACM examined the possibility of professional certification of software engineers in the late 1990s, but eventually decided that such certification was inappropriate for the professional industrial practice of software engineering.</p><br>
+Some of the authors of software engineering books are listed below:
+<br><b>1.</b>  Phillip A. Laplante
+<br><b>2.</b>  David Budgen
+<br><b>3.</b>  Ronald J. Leach
+<br><b>4.</b>  Pankaj Jalote’s
+<br><b>5.</b>  Rajib Mall
+<br><br>
+</font>
+</body>
+</html>
